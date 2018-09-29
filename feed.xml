@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JBake</title>
+    <link>http://localhost:8820/blog</link>
+    <atom:link href="http://localhost:8820/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <description>JBake Bootstrap Template</description>
+    <language>en-gb</language>
+    <pubDate>Sat, 29 Sep 2018 05:58:46 +0300</pubDate>
+    <lastBuildDate>Sat, 29 Sep 2018 05:58:46 +0300</lastBuildDate>
+
+    <item>
+      <title>Как получить подписку на Pluralsight бесплатно</title>
+      <link>http://localhost:8820/blog/2018/pluralsight-subscription-for-free.html</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0300</pubDate>
+      <guid isPermaLink="false">2018/pluralsight-subscription-for-free.html</guid>
+      	<description>
+	&lt;div class=&quot;story__content-inner&quot;&gt; 
+ &lt;div class=&quot;story-block story-block_type_text&quot;&gt; 
+  &lt;p&gt;&lt;a href=&quot;https://www.pluralsight.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener&quot;&gt;Pluralsight&lt;/a&gt; -- это довольно популярный онлайн-ресурс, на котором можно научиться программированию смотря видео. Не важно новичок вы или эксперт, который хочет прокачать свои скиллы, на Pluralsight вы найдёте обучающий видеокурс для себя.&lt;br&gt;&lt;/p&gt; 
+  &lt;p&gt;&lt;br&gt;&lt;/p&gt; 
+  &lt;p&gt;У них есть курсы практически по каждому языку программирования (эзотерические не считаем :)) начиная с джаваскрипта и заканчивая PHP и джавой. Также есть курсы по популярным сейчас фреймворкам, таким как AngularJS и React (вот &lt;a href=&quot;https://www.pluralsight.com/browse&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener&quot;&gt;полный список&lt;/a&gt;). Первые 200 минут можно смотреть видео бесплатно, а дальше вам придётся раскошелиться на $29 в месяц (см. &lt;a href=&quot;https://www.pluralsight.com/pricing&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener&quot;&gt;pricing&lt;/a&gt;), чтобы получить полный доступ к их коллекции видеокурсов.&lt;/p&gt; 
+ &lt;/div&gt; 
+ &lt;div class=&quot;story-block story-block_type_image&quot;&gt; 
+  &lt;figure class=&quot;story-image&quot;&gt; 
+   &lt;img src=&quot;http://localhost:8820/blog/img/blog/pluralsight-courses.png&quot; data-viewable=&quot;true&quot; alt=&quot;Pluralsight courses&quot;&gt; 
+  &lt;/figure&gt; 
+ &lt;/div&gt; 
+ &lt;div class=&quot;story-block story-block_type_text&quot;&gt; 
+  &lt;p&gt;Постойте... Или не придётся? Как раз для этого я и пишу данный пост :)&lt;/p&gt; 
+  &lt;p&gt;&lt;br&gt;&lt;/p&gt; 
+  &lt;p&gt;Сейчас будет самая интересная часть. Если присоединиться к программе Microsoft Visual Studio (это тоже бесплатно), вы автоматически получаете 3 месяца подписки на Pluralsight в подарок. При этом нигде не требуется вводить номер своей карты или отправлять СМС.&lt;/p&gt; 
+  &lt;p&gt;&lt;br&gt;&lt;/p&gt; 
+  &lt;h3&gt;Как активировать подписку на Pluralsight?&lt;/h3&gt; 
+  &lt;ol&gt; 
+   &lt;li&gt;Войдите в свой Microsoft аккаунт. Отправляйтесь на 
+    &lt;!--noindex--&gt;&lt;a href=&quot;https://signup.live.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener&quot;&gt;https://signup.live.com&lt;/a&gt; 
+    &lt;!--/noindex--&gt; и создайте новый, если у вас его ещё нет. &lt;/li&gt; 
+   &lt;li&gt;Откройте 
+    &lt;!--noindex--&gt;&lt;a href=&quot;https://my.visualstudio.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener&quot;&gt;https://my.visualstudio.com&lt;/a&gt; 
+    &lt;!--/noindex--&gt; и залогиньтесь под своим аккаунтом Microsoft. &lt;/li&gt; 
+   &lt;li&gt;Так вы попадёте на страницу Visual Studio Dev Essentials. Здесь выберите Pluralsight среди плюшек (benefits) как показано на &lt;a href=&quot;https://img.labnol.org/di/visual-studio-benefit.png&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener&quot;&gt;скриншоте&lt;/a&gt; и нажмите Получить Код (Get Code). &lt;/li&gt; 
+   &lt;li&gt;После этого вы должны попасть на сайт Pluralsight, где по этому коду активируете свою трёхмесячную персональную подписку. На этом шаге можно создать новый аккаунт на Pluralsight, либо использовать данные из существующего аккаунта. &lt;/li&gt; 
+   &lt;li&gt;Готово! Вы сэкономили $87.&lt;/li&gt; 
+   &lt;p&gt;&lt;br&gt;&lt;/p&gt; 
+   &lt;p&gt;Ваша подписка будет активна в течение 3 месяцев с того дня, как вы использовали код (например, если сделать это сегодня, 29 сентября, то подписка будет действовать до 28 декабря). Кстати, у них есть мобильные приложения для iPhone, iPad и Android, так что вы можете учиться на ходу. А также есть классическое (desktop) приложение Pluralsight для Windows и Mac и приложение для Smart TV, в которых вы можете скачивать и смотреть видео оффлайн. (информация &lt;a href=&quot;https://www.pluralsight.com/downloads&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener&quot;&gt;отсюда&lt;/a&gt;)&lt;/p&gt; 
+   &lt;p&gt;&lt;br&gt;&lt;/p&gt; 
+   &lt;p&gt;Я не буду здесь агитировать за Visual Studio Code (продукт Microsoft), так как я не пользуюсь этим редактором кода. Зато обращу ваше внимание на то, что программа Visual Studio Dev Essentials предоставляет и другие интересные плюшки, такие, например, как премиум на LinkedIn.&lt;/p&gt; 
+  &lt;/ol&gt;
+ &lt;/div&gt; 
+ &lt;div class=&quot;story-block story-block_type_text&quot;&gt; 
+  &lt;h3&gt;Примечания&lt;/h3&gt; 
+  &lt;ol&gt; 
+   &lt;li&gt;Все видеокурсы доступны на английском языке, так что, если вы не понимаете английскую речь на слух, этот сервис не для вас. Если же вы только начинаетете изучать английский и с трудом воспринимате устную речь, то это отличный шанс убить двух зайцев сразу - выучить интересную технологию и прокачаться в английском. &lt;/li&gt; 
+   &lt;li&gt;Пост является переводом одной англоязычной &lt;a href=&quot;https://www.labnol.org/internet/pluralsight-free-training/29063/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener&quot;&gt;статьи&lt;/a&gt;, которую я случайно нашёл на просторах Интернета. Я проверил инструкцию и внёс свои исправления перед тем, как публиковать перевод в своём блоге. &lt;/li&gt; 
+   &lt;li&gt;Перед тем, как оформлять подписку, я рекомендую сполна испробовать на себе триальную версию, так как у некоторых пользователей возникали проблемы с доступом к этому ресурсу из-за санкций США. &lt;/li&gt; 
+  &lt;/ol&gt; 
+ &lt;/div&gt; 
+&lt;/div&gt;
+	</description>
+    </item>
+
+  </channel> 
+</rss>
