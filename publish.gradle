@@ -1,0 +1,24 @@
+buildscript {
+  repositories {
+      mavenLocal()
+      mavenCentral()   
+      jcenter()
+  }
+
+  dependencies { 
+    classpath 'org.ajoberstar:gradle-git:1.7.2'
+  }
+}
+
+apply plugin: 'org.ajoberstar.github-pages'
+
+githubPages {
+  repoUri = 'git@github.com:kotlin-dev/blog.git'
+  pages {
+     from(file('build/jbake')) {
+     	into '.'
+     }
+  }
+}
+
+
