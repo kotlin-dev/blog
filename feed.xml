@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JBake</title>
-    <link>http://localhost:8820/blog</link>
-    <atom:link href="http://localhost:8820/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://kotlin-dev.github.io/blog</link>
+    <atom:link href="https://kotlin-dev.github.io/blog/feed.xml" rel="self" type="application/rss+xml" />
     <description>JBake Bootstrap Template</description>
     <language>en-gb</language>
-    <pubDate>Sat, 29 Sep 2018 05:58:46 +0300</pubDate>
-    <lastBuildDate>Sat, 29 Sep 2018 05:58:46 +0300</lastBuildDate>
+    <pubDate>Sat, 29 Sep 2018 06:51:32 +0300</pubDate>
+    <lastBuildDate>Sat, 29 Sep 2018 06:51:32 +0300</lastBuildDate>
 
     <item>
       <title>Как получить подписку на Pluralsight бесплатно</title>
-      <link>http://localhost:8820/blog/2018/pluralsight-subscription-for-free.html</link>
+      <link>https://kotlin-dev.github.io/blog/2018/pluralsight-subscription-for-free.html</link>
       <pubDate>Sat, 29 Sep 2018 00:00:00 +0300</pubDate>
       <guid isPermaLink="false">2018/pluralsight-subscription-for-free.html</guid>
       	<description>
@@ -23,7 +23,7 @@
  &lt;/div&gt; 
  &lt;div class=&quot;story-block story-block_type_image&quot;&gt; 
   &lt;figure class=&quot;story-image&quot;&gt; 
-   &lt;img src=&quot;http://localhost:8820/blog/img/blog/pluralsight-courses.png&quot; data-viewable=&quot;true&quot; alt=&quot;Pluralsight courses&quot;&gt; 
+   &lt;img src=&quot;https://kotlin-dev.github.io/blog/img/blog/pluralsight-courses.png&quot; data-viewable=&quot;true&quot; alt=&quot;Pluralsight courses&quot;&gt; 
   &lt;/figure&gt; 
  &lt;/div&gt; 
  &lt;div class=&quot;story-block story-block_type_text&quot;&gt; 
