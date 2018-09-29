@@ -23,5 +23,5 @@ jbake {
 
 task publish(type: GradleBuild) {
     buildFile = 'publish.gradle'
-    tasks = ['publishGhPages']
+    tasks = ['gitPublishPush']
 }
