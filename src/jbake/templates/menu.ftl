@@ -43,18 +43,18 @@
         <ul>
             <#if content.shareNav??>
             <li id="share-nav" class="share-menu" style="display:none;">
-                <a class="fa-share-alt" href="#share-menu">Share</a>
+                <a class="fa-share-alt" href="#share-menu">Поделиться</a>
             </li>
             </#if>
             <li class="search">
-                <a class="fa-search" href="#search">Search</a>
+                <a class="fa-search" href="#search">Поиск</a>
                 <form id="search" method="get" action="//google.com/search">
-                    <input type="text" name="q" placeholder="Search" />
+                    <input type="text" name="q" placeholder="Поиск" />
                     <input type="hidden" name="q" value="site:${config.site_host}">
                 </form>
             </li>
             <li class="menu">
-                <a class="fa-bars" href="#menu">Menu</a>
+                <a class="fa-bars" href="#menu">Меню</a>
             </li>
         </ul>
     </nav>
@@ -66,7 +66,7 @@
     <!-- Search -->
         <section>
             <form class="search" method="get" action="//google.com/search">
-                <input type="text" name="q" placeholder="Search" />
+                <input type="text" name="q" placeholder="Поиск" />
                 <input type="hidden" name="q" value="site:${config.site_host}">
             </form>
         </section>

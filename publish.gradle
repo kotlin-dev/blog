@@ -11,7 +11,7 @@ buildscript {
 apply plugin: 'org.ajoberstar.git-publish'
 
 gitPublish {
-    repoUri = 'git@github.com:kotlin-dev/blog.git'
+    repoUri = 'https://github.com/kotlin-dev/blog.git'
     branch = 'gh-pages'
     contents {
         from 'build/jbake'

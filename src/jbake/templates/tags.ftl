@@ -3,7 +3,7 @@
 	<#include "menu.ftl">
 
     <div id="main">
-        <h1>Tag: ${tag}</h1>
+        <h1>Тег: ${tag}</h1>
         
         <#list tag_posts as post>
         	<#include "post/content-list.ftl">
